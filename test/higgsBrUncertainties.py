@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 import math
 from sys import argv
 from optparse import OptionParser

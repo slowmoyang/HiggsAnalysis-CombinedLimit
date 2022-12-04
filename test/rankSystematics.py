@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 from sys import argv, stdout, stderr, exit
 from optparse import OptionParser
 from pprint import pprint

@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python2 
 # plotTestStatCLs.py -- Nicholas Wardle 
 
 # Plot test-statistics distributions from HybridNew Grids

@@ -1,5 +1,5 @@
 # Script for batch sumbission of Asymptotic Limit Calculator
-#!/usr/bin/env python
+#!/usr/bin/env python2
 import sys,os,commands,glob,numpy
 from optparse import OptionParser
 
